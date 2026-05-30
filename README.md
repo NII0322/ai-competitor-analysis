@@ -54,7 +54,7 @@ SerpAPI   App Store  综合分析
 | 组件 | 技术 |
 |------|------|
 | Agent 框架 | CrewAI |
-| 大语言模型 | DeepSeek-V4-Pro（650B+ MoE，128K上下文） |
+| 大语言模型 | DeepSeek-V4-Pro |
 | 前端界面 | Streamlit |
 | 互联网搜索 | SerpAPI |
 | 评论抓取 | app-store-scraper |
@@ -83,7 +83,7 @@ SerpAPI   App Store  综合分析
 
 ## 成本说明
 
-单次分析约消耗 DeepSeek API 10K-20K tokens，成本约 0.01-0.02 元人民币。
+单次分析约消耗 DeepSeek API 10K-20K tokens，成本约 0.05 元人民币。
 SerpAPI 免费额度每月 100 次搜索。
 
 ## 许可证
